@@ -1,4 +1,4 @@
-# Arab_OSC
+# Arab OSC
 > List of the most influential Arab Open Source Contributors (Arab OSC)
 
 This is a list of the most influential Arab Open Source Contributors. This list has been compiled based on recommendations and referrals from the community. Anyone can contribute to this list just create a Pull Request (PR)!
