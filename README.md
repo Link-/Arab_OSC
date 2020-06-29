@@ -18,29 +18,20 @@ Open source contributions range from helping fix bugs, translation, providing de
 ### The List
 > In no particular order
 
-- [Mahmoud Zalt](https://github.com/Mahmoudz)
-  - https://github.com/laradock/laradock 
-  - https://github.com/Mahmoudz/Porto
-- [Abed Halawi](https://github.com/Mulkave)
-  - https://github.com/lucid-architecture/laravel
-- [Rakan Nimer](https://github.com/rakannimer)
-  - https://github.com/doczjs/docz 
-  - https://github.com/rakannimer/react-google-charts
-- [Abdelrahman Awad](https://github.com/logaretm)
-  - https://github.com/logaretm/vee-validate
-- [Ahmad Shadeed](https://github.com/shadeed)
-  - https://github.com/shadeed/rtl-styling
-- [Omar Massad](https://github.com/Massad)
-  - https://github.com/Massad/gin-boilerplate
-- [Mohammed Al Ashaal](https://github.com/alash3al)
-  - https://github.com/alash3al/sqler
-- [Omar Albeik](https://github.com/omaralbeik)
-  - https://github.com/SwifterSwift/SwifterSwift
-- [Mohammad Rahhal](https://github.com/mrahhal)
-  - https://github.com/mrahhal/Migrator.EF6
-- [Saeed Ahmad](https://github.com/mrsaeeddev)
-  - https://github.com/mrsaeeddev/neumorphic-ui
-- [Jad Joubran](https://github.com/jadjoubran)
-  - https://github.com/jadjoubran/webdash
-- [Wissam Antoun](https://github.com/WissamAntoun)
-  - https://github.com/aub-mind/arabert
+| GitHub Handle                                     | Project                                           | Stars |
+|:--------------------------------------------------|:--------------------------------------------------|:------|
+| [Mahmoud Zalt](https://github.com/Mahmoudz)       | https://github.com/laradock/laradock              |       |
+|                                                   | https://github.com/Mahmoudz/Porto                 |       |
+| [Abed Halawi](https://github.com/Mulkave)         | https://github.com/lucid-architecture/laravel     |       |
+| [Rakan Nimer](https://github.com/rakannimer)      | https://github.com/doczjs/docz                    |       |
+|                                                   | https://github.com/rakannimer/react-google-charts |       |
+| [Abdelrahman Awad](https://github.com/logaretm)   | https://github.com/logaretm/vee-validate          |       |
+| [Ahmad Shadeed](https://github.com/shadeed)       | https://github.com/shadeed/rtl-styling            |       |
+| [Omar Massad](https://github.com/Massad)          | https://github.com/Massad/gin-boilerplate         |       |
+| [Mohammed Al Ashaal](https://github.com/alash3al) | https://github.com/alash3al/sqler                 |       |
+| [Omar Albeik](https://github.com/omaralbeik)      | https://github.com/SwifterSwift/SwifterSwift      |       |
+| [Mohammad Rahhal](https://github.com/mrahhal)     | https://github.com/mrahhal/Migrator.EF6           |       |
+| [Saeed Ahmad](https://github.com/mrsaeeddev)      | https://github.com/mrsaeeddev/neumorphic-ui       |       |
+| [Jad Joubran](https://github.com/jadjoubran)      | https://github.com/jadjoubran/webdash             |       |
+| [Wissam Antoun](https://github.com/WissamAntoun)  | https://github.com/aub-mind/arabert               |       |
+|                                                   |                                                   |       |
