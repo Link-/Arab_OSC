@@ -10,11 +10,6 @@ Open source contributions range from helping fix bugs, translation, providing de
 3. The project **should be active** and not in a read-only state with at least 1 contribution in the last year
 4. You are **of Arab origins**. Current country of residence is of no relevance
 
-#### Disclaimers:
-1. This is a personal initiative that does not represent my employer
-2. Stars on a repo are not the only indicators of influence but it's the best one I can think of. If you can demonstrate influence with another metric that would be wonderful and will be taken into consideration!
-3. The emphasis on having Arab origins is because I believe Arab contributors are an under represented group in the global open source community. Their work deserves some spotlight. This will also encourage and inspire the upcoming contributors from the region.
-
 ### The List
 > In no particular order
 
@@ -35,3 +30,8 @@ Open source contributions range from helping fix bugs, translation, providing de
 | [Jad Joubran](https://github.com/jadjoubran)      | https://github.com/jadjoubran/webdash             |       |
 | [Wissam Antoun](https://github.com/WissamAntoun)  | https://github.com/aub-mind/arabert               |       |
 |                                                   |                                                   |       |
+
+#### Disclaimers:
+1. This is a personal initiative that does not represent my employer
+2. Stars on a repo are not the only indicators of influence but it's the best one I can think of. If you can demonstrate influence with another metric that would be wonderful and will be taken into consideration!
+3. The emphasis on having Arab origins is because I believe Arab contributors are an under represented group in the global open source community. Their work deserves some spotlight. This will also encourage and inspire the upcoming contributors from the region.
