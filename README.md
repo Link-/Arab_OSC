@@ -29,6 +29,7 @@ Open source contributions range from helping fix bugs, translation, providing de
 | [Saeed Ahmad](https://github.com/mrsaeeddev)      | https://github.com/mrsaeeddev/neumorphic-ui       |       |
 | [Jad Joubran](https://github.com/jadjoubran)      | https://github.com/jadjoubran/webdash             |       |
 | [Wissam Antoun](https://github.com/WissamAntoun)  | https://github.com/aub-mind/arabert               |       |
+| [Mohamed Said](https://github.com/themsaid)       | https://github.com/laravel/framework              |       |
 |                                                   |                                                   |       |
 
 #### Disclaimers:
