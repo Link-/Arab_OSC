@@ -30,7 +30,8 @@ Open source contributions range from helping fix bugs, translation, providing de
 | [Jad Joubran](https://github.com/jadjoubran)      | https://github.com/jadjoubran/webdash             |       |
 | [Wissam Antoun](https://github.com/WissamAntoun)  | https://github.com/aub-mind/arabert               |       |
 | [Mohamed Said](https://github.com/themsaid)       | https://github.com/laravel/framework              |       |
-|                                                   |                                                   |       |
+| [Elie Saad](https://github.com/thunderson)        | https://github.com/OWASP/wstg                     |       |
+|                                                   | https://github.com/OWASP/CheatSheetSeries         |       |
 
 #### Disclaimers:
 1. This is a personal initiative that does not represent my employer
