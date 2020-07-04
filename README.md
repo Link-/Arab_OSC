@@ -32,6 +32,8 @@ The below entries are set in a random order following contributor's additions:
 | [Mohamed Said](https://github.com/themsaid)       | https://github.com/laravel/framework              |       |
 | [Elie Saad](https://github.com/thunderson)        | https://github.com/OWASP/wstg                     |       |
 |                                                   | https://github.com/OWASP/CheatSheetSeries         |       |
+| [Abdullah Diab](https://github.com/mpcabd)        | https://github.com/mpcabd/python-arabic-reshaper  |       |
+|                                                   |                                                   |       |
 
 ### Disclaimers
 
