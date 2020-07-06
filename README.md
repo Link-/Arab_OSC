@@ -16,11 +16,8 @@ Open source contributions range from helping fix bugs, translation, providing de
 </br>
 
 1. أن يكونوا ضمن <strong>قائمة أفضل 5</strong> مساهمين أو قد قادوا مشروعًا مفتوح المصدر على الأقلّ.
-</br>
 2. يجب أن يحتوي المشروع<strong> على 50 نجمة على الأقلّ</strong> أو أكثر من <strong>10 مساهمين فريدين.</strong>
-</br>
 3. يجب أن يكون <strong>المشروع نشطًا</strong> وليس في حالة القراءة فقط، ويتضمّن مساهمة واحدة على الأقلّ في العام الماضي.
-</br>
 </div>
 
 <div dir="rtl">لا ترتيب محدّد لهذه القائمة</div>
