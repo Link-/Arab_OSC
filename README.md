@@ -18,6 +18,7 @@ Open source contributions range from helping fix bugs, translation, providing de
 1. أن يكونوا ضمن <strong>قائمة أفضل 5</strong> مساهمين أو قد قادوا مشروعًا مفتوح المصدر على الأقلّ.
 2. يجب أن يحتوي المشروع<strong> على 50 نجمة على الأقلّ</strong> أو أكثر من <strong>10 مساهمين فريدين.</strong>
 3. يجب أن يكون <strong>المشروع نشطًا</strong> وليس في حالة القراءة فقط، ويتضمّن مساهمة واحدة على الأقلّ في العام الماضي.
+4. أن يكونوا <strong> من أصول عربية </strong>إنّ بلد الإقامة الحالي لا صلة له بالمعايير.
 </div>
 
 <div dir="rtl">لا ترتيب محدّد لهذه القائمة</div>
@@ -52,7 +53,7 @@ The below entries are set in a random order following contributor's additions:
 2. Stars on a repo are not the only indicators of influence but it's the best one I can think of. If you can demonstrate influence with another metric that would be wonderful and will be taken into consideration!
 3. The emphasis on having Arab origins is because I believe Arab contributors are an under represented group in the global open source community. Their work deserves some spotlight. This will also encourage and inspire the upcoming contributors from the region.
 
-#### <div dir="rtl">ملاحظات</div>
+#### <div dir="rtl">تنصّلات:</div>
 <div dir="rtl">
   1. إنّ هذه المبادرة شخصيّة ولا تمثّل صاحب العمل لذا اقتضى التّوضيح.</br>
   2. إن عدد النّجوم المحصّل لدى المستودع لا يعدّ مؤشّر التّأثير الوحيد، لكنّه أفضل ما أمكنني التّفكير فيه. إذا استطعتم إظهار التّأثير بأيّ مقياس آخر سيتمّ أخذه بعين الاعتبار.</br>
