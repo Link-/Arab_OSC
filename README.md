@@ -45,7 +45,7 @@ The below entries are set in a random order following contributor's additions:
 | [Elie Saad](https://github.com/thunderson)        | https://github.com/OWASP/wstg                     |       |
 |                                                   | https://github.com/OWASP/CheatSheetSeries         |       |
 | [Abdullah Diab](https://github.com/mpcabd)        | https://github.com/mpcabd/python-arabic-reshaper  |       |
-|                                                   |                                                   |       |
+| [Fady Baly](https://github.com/fadybaly)          | https://github.com/aub-mind/arabert               |       |
 
 ### Disclaimers
 
