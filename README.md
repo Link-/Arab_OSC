@@ -27,6 +27,7 @@ The below entries are set in a random order following contributor's additions:
 
 | GitHub Handle                                     | Project                                           | Stars |
 |:--------------------------------------------------|:--------------------------------------------------|:------|
+| [Muath Alsowadi](https://github.com/muath-ye)     | https://github.com/YemenOpenSource/blade-realtime-input |       |
 | [Mahmoud Zalt](https://github.com/Mahmoudz)       | https://github.com/laradock/laradock              |       |
 |                                                   | https://github.com/Mahmoudz/Porto                 |       |
 | [Abed Halawi](https://github.com/Mulkave)         | https://github.com/lucid-architecture/laravel     |       |
