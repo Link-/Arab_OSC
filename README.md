@@ -29,6 +29,7 @@ The below entries are set in a random order following contributor's additions:
 |:--------------------------------------------------|:--------------------------------------------------|:------|
 | [Muath Alsowadi](https://github.com/muath-ye)     | https://github.com/YemenOpenSource/blade-realtime-input |       |
 | [Mahmoud Zalt](https://github.com/Mahmoudz)       | https://github.com/laradock/laradock              |       |
+| [Abdullah Alaadine](https://github.com/abdullah-alaadine) | https://github.com/abdullah-alaadine/git-commits-visualizer |       |
 |                                                   | https://github.com/Mahmoudz/Porto                 |       |
 | [Abed Halawi](https://github.com/Mulkave)         | https://github.com/lucid-architecture/laravel     |       |
 | [Rakan Nimer](https://github.com/rakannimer)      | https://github.com/doczjs/docz                    |       |
