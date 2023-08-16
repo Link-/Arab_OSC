@@ -48,6 +48,7 @@ The below entries are set in a random order following contributor's additions:
 |                                                   | https://github.com/OWASP/CheatSheetSeries         |       |
 | [Abdullah Diab](https://github.com/mpcabd)        | https://github.com/mpcabd/python-arabic-reshaper  |       |
 | [Fady Baly](https://github.com/fadybaly)          | https://github.com/aub-mind/arabert               |       |
+| [Ayman Alhattami](https://github.com/aymanalhattami)          | https://github.com/aymanalhattami/filament-page-with-sidebar               |    84   |
 
 ### Disclaimers
 
